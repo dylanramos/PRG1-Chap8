@@ -1,0 +1,4 @@
+C:/Heig/PRG1/Exos chap 8/cmake-build-debug/CMakeFiles/Exos_chap_8.dir
+C:/Heig/PRG1/Exos chap 8/cmake-build-debug/CMakeFiles/8-2.dir
+C:/Heig/PRG1/Exos chap 8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Heig/PRG1/Exos chap 8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
